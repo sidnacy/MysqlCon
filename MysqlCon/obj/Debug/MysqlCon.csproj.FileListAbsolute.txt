@@ -1,0 +1,7 @@
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\bin\Debug\MysqlCon.exe.config
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\bin\Debug\MysqlCon.exe
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\bin\Debug\MysqlCon.pdb
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\bin\Debug\MySql.Data.dll
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\obj\Debug\MysqlCon.csprojResolveAssemblyReference.cache
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\obj\Debug\MysqlCon.exe
+C:\Users\cognito\Desktop\Lipas Oras\MysqlCon\MysqlCon\obj\Debug\MysqlCon.pdb
